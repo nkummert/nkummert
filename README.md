@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nkummert
+- 👀 I’m interested in playing guitar, keeping up with the latest video games, and using gamification to enable exciting new learning experiences.
+- 🌱 I’m currently learning Construct 3 and other object-based game dev tools to create training
+- 💞️ I’m looking to collaborate on anything xAPI!
+- 📫 Reach me on Twitter @nkummert
